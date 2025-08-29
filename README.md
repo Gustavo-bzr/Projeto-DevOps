@@ -1,0 +1,1 @@
+DevOps é uma cultura e conjunto de práticas que unem as equipes de desenvolvimento (Dev) e operações (Ops) com o objetivo de automatizar processos, melhorar a colaboração e acelerar a entrega de software. Ele promove integração contínua (CI), entrega contínua (CD) e monitoramento constante, garantindo mais qualidade, agilidade e estabilidade nas aplicações.
